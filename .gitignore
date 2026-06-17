@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Tableau extracts
+*.hyper
+
+# Tableau generated folders
+*.twb Files/
+
+# macOS
+.DS_Store
