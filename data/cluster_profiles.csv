@@ -1,0 +1,5 @@
+cluster_name,transaction_qty,unit_price,is_weekend
+Premium / High-Spend,0.032579365510583345,1.0,0.2893356643356643
+Weekday Multi-Buy,1.0,0.0,0.019661626911851835
+Weekday Quick Grab,0.0,0.01733360107473691,0.0
+Weekend Purchase,0.3807767035572689,0.00997577664282124,1.0
